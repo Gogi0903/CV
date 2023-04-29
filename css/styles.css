@@ -91,6 +91,18 @@ hr {
   line-height: 18px;
 }
 
+#linkedin {
+  margin: 0 0 0 8px;
+  width: 527px;
+  height: 18px;
+  text-align: left;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+}
+
 #my_button {
   width: 158px;
   border: 0;
